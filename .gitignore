@@ -11,3 +11,7 @@ web-build/
 
 # macOS
 .DS_Store
+
+# configs
+babel.config.js
+.expo-shared/
